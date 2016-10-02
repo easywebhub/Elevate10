@@ -1,0 +1,39 @@
+[
+    {
+        "name": "title",
+        "displayName": "title",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "navigation",
+        "displayName": "navigation",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "logo",
+        "displayName": "logo",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "items",
+        "displayName": "items",
+        "type": "Array",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "nav",
+        "displayName": "nav",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    }
+]

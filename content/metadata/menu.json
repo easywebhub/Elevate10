@@ -1,0 +1,16 @@
+{
+    "title": "Elevate",
+    "navigation":"Navigation",
+    "logo":{"title":"Elevate","name":"Menu","url":"#"},
+	 "items":[{"url":"#intro","title":"Home"},
+	 {"url":"#features","title":"Features"},
+	 {"url":"#intro","title":"Product Info"},
+	 {"url":"#stats","title":"Stats"},
+	 {"url":"#pricing","title":"Pricing"},
+	 {"url":"#testimonials","title":"Testimonials"},
+	 {"url":"#download","title":"Download"},
+	 {"url":"#subscribe","title":"Newsletter"}
+	 ],"nav":{"title":"We Recommend Dreamhost","metada":"Looking for an awesome and reliable webhosting? Try <a href='\/http://www.dreamhost.com/r.cgi?287326|STYLESHOUT'>DreamHost<\/a>.Get <span>$50 off<\/span> when you sign up with the promocode <span>styleshout<\/span>.",
+			"btn":{"url":"#","title":"Sign Up Now"}} 
+
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Handcrafted by Afnizar Nur Ghifari",
+    "items": [
+        {
+            "class": "fa fa-facebook-square",
+            "url": "#"
+        },
+        {
+            "class": "fa fa-twitter-square",
+            "url": "#"
+        },
+        {
+            "class": "fa fa-google-plus-square",
+            "url": "#"
+        },
+        {
+            "class": "fa fa-youtube-play",
+            "url": "#"
+        },
+        {
+            "class": "fa fa-flickr",
+            "url": "#"
+        },
+        {
+            "class": "fa fa-skype",
+            "url": "#"
+        }
+    ],
+    "footerInfo":{"items":[{"class":"col-four tab-full","classI":"icon-location-map-1","title":"Where to Find Us","metadata":"1600 Amphitheatre Parkway<\/br>Mountain View, CA<\/br>94043 US"},{"class":"col-four tab-full collapse","classI":"icon-phone-incoming","title":"Get In Touch","metadata":"someone@elevatewebsite.com<\/br>info@elevatewebsite.com <\/br>Phone: (+63) 555 1212"}],"tab":{"title":"Company Links","items":[{"url":"#","title":"Company Journal"},		{"url":"#","title":"Product Support"},
+			{"url":"#","title":"Privacy Policy"}
+			]} },
+				 "footerBottom":{"title":"© Copyright Elevate 2016.","metadata":"Design by <a href='\/http://www.styleshout.com/'>styleshout<\/a>"}
+}
