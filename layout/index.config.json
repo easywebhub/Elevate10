@@ -38,5 +38,61 @@
         "validations": [],
         "viewOnly": false,
         "required": false
+    },
+    {
+        "name": "intro",
+        "displayName": "intro",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "feature",
+        "displayName": "feature",
+        "type": "Array",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "infoEntry",
+        "displayName": "infoEntry",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "stats",
+        "displayName": "stats",
+        "type": "Array",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "pricing",
+        "displayName": "pricing",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "testimonials",
+        "displayName": "testimonials",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "download",
+        "displayName": "download",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "subscribe",
+        "displayName": "subscribe",
+        "type": "Object",
+        "validations": [],
+        "required": false
     }
 ]
